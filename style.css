@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    list-style: none;
+}
+ul:hover{
+    cursor: pointer;
+}
+.one:hover{
+     color: white;
+}
+.two:hover{
+     color: white;
+}
+.three:hover{
+     color: white;
+}
+
+body{
+    margin: 0;
+    background: linear-gradient(
+        to bottom,
+        #6da8d6,
+        #2d5f7d,
+        #0f1f2b
+    );
+    color: white;
+}
+
+.four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.four img{
+    border-radius: 15px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+.six{
+    margin-left: 50px;
+    margin-top: 5%;
+    background-color: #FAF7F2;
+    color: black;
+    border-radius: 10px;
+    padding: 15px;
+    
+    
+    
+}
+.five{
+    margin-top: 14%;
+    margin-left: 40px;
+}
+.six p{
+    width: 300px;
+}
+.seven {
+     margin-left: 50px;
+    margin-top: 5%;
+    background:whitesmoke;
+    color: black;
+    border-radius: 10px;
+    padding: 15px;
+}
+.seven p{
+    width: 300px;
+}
+.eight{
+     margin-left: 50px;
+    margin-top: 5%;
+      background-color: whitesmoke;
+    color: black;
+    border-radius: 10px;
+    padding: 15px;
+}
+.eight p{
+    width: 300px;
+}
+p{
+    display: block;
+}
+h2{
+    display: block;
+}
+a{
+    display: block;
+    margin-top: 10px;
+}
+.container{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5%;
+}
+.six img{
+    border-radius: 10px;
+}
+.seven img{
+    border-radius: 10px;
+}
+.eight img{
+    border-radius: 10px;
+}
+.nine{
+    margin: 5%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.eleven{
+    margin: 2%;
+    font-family: 'Poppins', sans-serif;
+}
+.twelve{
+    margin: 2%;
+    font-family: 'Poppins', sans-serif;
+}
+.thirteen{
+    margin: 2%;
+    font-family: 'Poppins', sans-serif;
+}
+.ten{
+    background-color: black;
+    color: aqua;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 10px;
+}
+.ten:hover{
+    cursor: pointer;
+}
+h2{
+     font-family: 'Montserrat', sans-serif;
+    text-decoration: underline aqua;
+}
+a{
+    color: aqua;
+}

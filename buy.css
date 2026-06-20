@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: aqua;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    background: #833AB4;
+background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+.one{
+   margin-left: 16%;
+   margin-top: 10%;
+   border-radius: 15px; 
+ }
+ .two{
+    margin: 5%;
+ }
+ .three{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+   
+ }
+ .four{
+    margin-left: 15px;
+ background-color: black;
+     color: white;
+ border-radius: 10px;
+ }
+ .five{
+    margin-left: 60px;
+    background-color: black;
+     color: white;
+    border-radius: 10px;
+     
+ }
+ .six{
+
+    margin-left: 60px;
+     background-color: black;
+     color: white;
+     border-radius: 10px;
+ }
+ h2{
+    text-decoration:underline aqua;
+ }
+ .four img{
+    border-radius: 10px;
+ }
+ .five img{
+    border-radius: 10px;
+ }
+ .six img{
+    border-radius: 10px;
+ }
+ h3{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+ h2 {
+    margin-bottom: 20px;
+ }
+ a{
+    color: white;
+ }
+ a:hover{
+    cursor: pointer;
+ }
+ .cart{
+   margin-left: 40%;
+ }
+ button{
+   margin-top: 10px;
+   border-radius: 10px;
+   border-color: white;
+ }
+ li{
+   font-family: 'Orbitron', sans-serif;
+ }
+ h1{
+   margin-right: 55%;
+ }
+ h4{
+   color: aqua;
+ }
+ .seven{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+ }
+ .eight{
+
+  margin-left: 15px;
+ background-color: black;
+     color: white;
+ border-radius: 10px;
+ margin-top: 20px;
+ }
+ .nine{
+    margin-left: 60px;
+ background-color: black;
+     color: white;
+ border-radius: 10px;
+ margin-top: 20px;
+ }
+ .ten{
+    margin-left: 60px;
+ background-color: black;
+     color: white;
+ border-radius: 10px;
+ margin-top: 20px;
+ }
+ .seven img{
+   border-radius: 10px;
+ }
+ .eleven{
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: 10%;
+ }
+ .twelve{
+   margin-left: 15px;
+ background-color: black;
+     color: white;
+ border-radius: 10px;
+ margin-top: 20px;
+ }
+ .thirteen{
+    margin-left: 60px;
+ background-color: black;
+     color: white;
+ border-radius: 10px;
+ margin-top: 20px;
+ }
+ .fourteen{
+    margin-left: 60px;
+ background-color: black;
+     color: white;
+ border-radius: 10px;
+ margin-top: 20px;
+ }
+ .eleven img{
+   border-radius: 10px;
+ }
